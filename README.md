@@ -1,2 +1,3 @@
 # socket.io_chattApp
-Backend project_MERNstack_Real_time_chatting_app
+This is a full stack Real time chatting application that I built with MERN stack using socket.io.
+However this is a project of my backend development jouorney.
